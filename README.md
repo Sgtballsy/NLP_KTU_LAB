@@ -1,2 +1,24 @@
-# NLP_KTU_LAB
-🧠 Natural Language Processing Lab (KTU) Hands-on projects and experiments exploring core NLP techniques using Python. Includes tasks like text preprocessing, tokenization, POS tagging, NER, sentiment analysis, and basic language modeling. Built with tools like NLTK, spaCy, and Transformers.
+# 🧠 Natural Language Processing Lab – KTU
+
+This repository contains lab exercises and mini-projects for the **Natural Language Processing Lab** as part of the KTU curriculum.
+
+## 🔍 Overview
+
+The lab focuses on implementing and understanding core NLP concepts using Python and popular libraries. Topics covered include:
+
+- Text preprocessing
+- Tokenization
+- Part-of-Speech (POS) tagging
+- Named Entity Recognition (NER)
+- Sentiment Analysis
+- Language Modeling
+- Working with real-world datasets
+
+## 🛠️ Tools & Libraries
+
+- Python
+- [NLTK](https://www.nltk.org/)
+- [spaCy](https://spacy.io/)
+- [Hugging Face Transformers](https://huggingface.co/transformers/)
+- scikit-learn
+- pandas
